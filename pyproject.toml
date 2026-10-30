@@ -1,0 +1,11 @@
+[project]
+name = "stardew-dupe"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "evdev>=2.0.0",
+    "inputs>=0.5",
+    "mouse>=0.7.1",
+    "pynput>=1.8.2",
+    "vgamepad>=0.1.0",
+]
